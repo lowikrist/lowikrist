@@ -1,16 +1,22 @@
-### Hi there 👋
+# `Just some coding stuff ¯\_(ツ)_/¯`
 
-<!--
-**lowikrist/lowikrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Aboutme: 
+  full_name = "Tonija Senčar Arnež" 
+  country = "Slovenia"
+  languages = [🇸🇮, 🇮🇹, 🇺🇸]
+  following = ["Web development"]
+  
+  def fetch_interests(self): 
+    return ["Web development", "League", "Cyber security", "Singing", "Gym", "Cats!"]
 
-Here are some ideas to get you started:
+  def fun_fact(self): 
+    return "Windows addict!!"
+    
+  def programming_languages(self): 
+    return ["python", "css", "html", "java"]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🐱 <b>Discord contact: </b> <a href="https://discord.com">`lowi#1475`</a>
+
+> 🐱 <b>Instagram contact: </b> <a href="https://instagram.com/tonija__">`tonija__`</a>
